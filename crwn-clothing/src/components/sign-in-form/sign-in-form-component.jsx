@@ -25,9 +25,7 @@ const SignInForm = () => {
     }
 
     const signInWithGoogle = async () => {
-        const {user} = await signInWithGooglePopup();
-        await createUserDocumentFromAuth(user);
-        console.log(user);
+        await signInWithGooglePopup();
     };
 
     const handleSubmit = async(event) => {
