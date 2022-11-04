@@ -1,6 +1,8 @@
 # Overview
 A simple listView page using React.
+
 https://user-images.githubusercontent.com/26794816/199915229-ea953b89-9ec9-443a-a1ee-d26ae64c04ad.mov
+
 ## Project Setup
 First, clone the project using: 
 ```shell
