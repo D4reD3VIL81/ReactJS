@@ -1,6 +1,5 @@
 # Overview
 A simple listView page using React.
-![Uploading ezgif-4-c334df26f8.gif…]()
 ## Project Setup
 First, clone the project using: 
 ```shell
